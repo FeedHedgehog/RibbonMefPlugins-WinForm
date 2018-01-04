@@ -1,0 +1,16 @@
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\FrmRibbonStart\obj\Debug\January.FrmRibbonStart.csprojResolveAssemblyReference.cache
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\FrmRibbonStart\obj\Debug\January.FrmRibbonStart.MainRibbonForm.resources
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\FrmRibbonStart\obj\Debug\January.FrmRibbonStart.Properties.Resources.resources
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\FrmRibbonStart\obj\Debug\January.FrmRibbonStart.csproj.GenerateResource.Cache
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\FrmRibbonStart\obj\Debug\January.FrmRibbonStart.dll.licenses
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\bin\Debug\January.FrmRibbonStart.dll
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\bin\Debug\January.FrmRibbonStart.pdb
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\FrmRibbonStart\obj\Debug\January.FrmRibbonStart.dll
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\FrmRibbonStart\obj\Debug\January.FrmRibbonStart.pdb
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\January.FrmRibbonStart\obj\Debug\January.FrmRibbonStart.csprojResolveAssemblyReference.cache
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\January.FrmRibbonStart\obj\Debug\January.FrmRibbonStart.MainRibbonForm.resources
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\January.FrmRibbonStart\obj\Debug\January.FrmRibbonStart.Properties.Resources.resources
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\January.FrmRibbonStart\obj\Debug\January.FrmRibbonStart.csproj.GenerateResource.Cache
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\January.FrmRibbonStart\obj\Debug\January.FrmRibbonStart.dll.licenses
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\January.FrmRibbonStart\obj\Debug\January.FrmRibbonStart.dll
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\January.FrmRibbonStart\obj\Debug\January.FrmRibbonStart.pdb

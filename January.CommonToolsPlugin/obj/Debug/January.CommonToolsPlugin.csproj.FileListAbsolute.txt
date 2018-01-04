@@ -1,0 +1,12 @@
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\CommonToolsPlugin\obj\Debug\January.CommonToolsPlugin.csprojResolveAssemblyReference.cache
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\CommonToolsPlugin\obj\Debug\January.CommonToolsPlugin.Properties.Resources.resources
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\CommonToolsPlugin\obj\Debug\January.CommonToolsPlugin.csproj.GenerateResource.Cache
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\bin\Debug\Plugins\January.CommonToolsPlugin.dll
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\bin\Debug\Plugins\January.CommonToolsPlugin.pdb
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\CommonToolsPlugin\obj\Debug\January.CommonToolsPlugin.dll
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\CommonToolsPlugin\obj\Debug\January.CommonToolsPlugin.pdb
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\January.CommonToolsPlugin\obj\Debug\January.CommonToolsPlugin.csprojResolveAssemblyReference.cache
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\January.CommonToolsPlugin\obj\Debug\January.CommonToolsPlugin.Properties.Resources.resources
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\January.CommonToolsPlugin\obj\Debug\January.CommonToolsPlugin.csproj.GenerateResource.Cache
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\January.CommonToolsPlugin\obj\Debug\January.CommonToolsPlugin.dll
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\January.CommonToolsPlugin\obj\Debug\January.CommonToolsPlugin.pdb

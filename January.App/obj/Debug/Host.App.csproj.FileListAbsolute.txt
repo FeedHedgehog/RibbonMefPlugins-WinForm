@@ -1,0 +1,13 @@
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\Host.App\bin\Debug\Host.App.exe.config
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\Host.App\bin\Debug\Host.App.exe
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\Host.App\bin\Debug\Host.App.pdb
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\Host.App\bin\Debug\FrmRibbonStart.dll
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\Host.App\bin\Debug\FrmRibbonStart.pdb
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\Host.App\obj\Debug\Host.App.csprojResolveAssemblyReference.cache
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\Host.App\obj\Debug\Host.App.Properties.Resources.resources
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\Host.App\obj\Debug\Host.App.csproj.GenerateResource.Cache
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\bin\Debug\Host.App.exe.config
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\bin\Debug\Host.App.exe
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\bin\Debug\Host.App.pdb
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\Host.App\obj\Debug\Host.App.exe
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\Host.App\obj\Debug\Host.App.pdb

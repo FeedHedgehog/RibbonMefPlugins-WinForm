@@ -1,0 +1,7 @@
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\bin\Debug\Plugins\CommonToolsPlugin.dll
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\bin\Debug\Plugins\CommonToolsPlugin.pdb
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\CommonToolsPlugin\obj\Debug\CommonToolsPlugin.csprojResolveAssemblyReference.cache
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\CommonToolsPlugin\obj\Debug\CommonToolsPlugin.Properties.Resources.resources
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\CommonToolsPlugin\obj\Debug\CommonToolsPlugin.csproj.GenerateResource.Cache
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\CommonToolsPlugin\obj\Debug\CommonToolsPlugin.dll
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\CommonToolsPlugin\obj\Debug\CommonToolsPlugin.pdb

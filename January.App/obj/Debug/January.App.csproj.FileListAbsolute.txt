@@ -1,0 +1,13 @@
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\bin\Debug\January.App.exe.config
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\Host.App\obj\Debug\January.App.csprojResolveAssemblyReference.cache
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\Host.App\obj\Debug\January.App.Properties.Resources.resources
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\Host.App\obj\Debug\January.App.csproj.GenerateResource.Cache
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\bin\Debug\January.App.exe
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\bin\Debug\January.App.pdb
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\Host.App\obj\Debug\January.App.exe
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\Host.App\obj\Debug\January.App.pdb
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\January.App\obj\Debug\January.App.exe
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\January.App\obj\Debug\January.App.pdb
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\January.App\obj\Debug\January.App.csprojResolveAssemblyReference.cache
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\January.App\obj\Debug\January.App.Properties.Resources.resources
+D:\2016\package\demos\demo\MefDemo\mefDemoDevExpress\January.App\obj\Debug\January.App.csproj.GenerateResource.Cache
